@@ -5,7 +5,6 @@ def count_up_to(max):
         count += 1
 
 # Create a generator object
-# Test comment
 counter = count_up_to(3)
 
 # Use the generator with the next() method
